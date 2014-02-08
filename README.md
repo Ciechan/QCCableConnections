@@ -1,7 +1,7 @@
 QCCableConnections
 ==================
 
-This Quartz Composer plugin makes connection bend more like cables:
+This Quartz Composer plugin makes connections bend more like cables:
 
 [![](https://raw2.github.com/Ciechan/QCCableConnections/master/good.png)](https://raw.github.com/Ciechan/QCCableConnections/master/good.png)
 
