@@ -1,0 +1,6 @@
+// Prefix header for all source files of the 'QCCableConnections' target in the 'QCCableConnections' project.
+
+#ifdef __OBJC__
+    #import <SkankySDK/SkankySDK.h>
+    #import <Cocoa/Cocoa.h>
+#endif
