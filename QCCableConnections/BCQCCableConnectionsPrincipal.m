@@ -135,7 +135,7 @@ void SwizzleInstanceMethod(Class c, SEL orig, SEL new)
     [path setLineCapStyle:NSRoundLineCapStyle];
     
     [path setLineWidth:4.0];
-    [[NSColor colorWithWhite:0.0 alpha:0.7] setStroke];
+    [[NSColor colorWithCalibratedWhite:0.0 alpha:0.7] setStroke];
     [path stroke];
     
     [path setLineWidth:2.0];
