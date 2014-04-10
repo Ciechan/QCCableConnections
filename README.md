@@ -26,9 +26,7 @@ Installation
 Either build in Xcode and you're done, or copy the unzipped plugin directly into the destination folder:
 
 
-	unzip -d Builds/unzip  Builds/QCCableConnections.plugin.zip
-	cp -r Builds/unzip/QCCableConnections.plugin ~/Library/Graphics/Quartz\ Composer\ Patches/QCCableConnections.plugin    
-	rm -r Builds/unzip
+	unzip Builds/QCCableConnections.plugin.zip -d ~/Library/Graphics/Quartz\ Composer\ Patches
 	
 Contact
 -------
